@@ -6,6 +6,6 @@
 # first run
 
 * in config.js muss der API-Key eingetragen werden
-* in Data müssen die Ziele Ausgangspunkte eingetragen werden
+* in data.js müssen die Ziele Ausgangspunkte eingetragen werden
 
     node index.js
