@@ -1,7 +1,7 @@
 # Voraussetzungen
 
-node.js
-Google Maps Api Key (siehe hier https://developers.google.com/maps/documentation/distance-matrix/start#get-a-key)
+* node.js
+* Google Maps Api Key (siehe hier https://developers.google.com/maps/documentation/distance-matrix/start#get-a-key)
 
 # first run
 
